@@ -3,7 +3,7 @@
 Plugin Name: HTML5 Maps
 Plugin URI: https://www.fla-shop.com
 Description: High-quality map plugin for WordPress. The map depicts regions (states, provinces, counties etc.) and features color, landing page and popup customization.
-Version: 1.7.1.5
+Version: 1.7.1.6
 Author: Fla-shop.com
 Author URI: https://www.fla-shop.com
 Text Domain: html5-maps
