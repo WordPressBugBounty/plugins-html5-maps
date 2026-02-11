@@ -1,9 +1,9 @@
 === HTML5 Maps ===
 Contributors: html5maps
 Donate link: https://www.fla-shop.com/
-Tags: interactive map, world map, us map, interactive world map, maps, united states map, interactive maps, html5 map, svg map, clickable map, html5maps, responsive map
+Tags: interactive map, clickable map, geo map, world map, us map
 Requires at least: 3.3
-Tested up to: 6.6
+Tested up to: 6.9
 Stable tag: 1.7.1.6
 License: GPLv2 or later
 
