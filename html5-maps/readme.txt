@@ -3,8 +3,8 @@ Contributors: html5maps
 Donate link: https://www.fla-shop.com/
 Tags: interactive map, clickable map, geo map, world map, us map
 Requires at least: 3.3
-Tested up to: 7.1
-Stable tag: 1.7.1.7
+Tested up to: 7.1.3
+Stable tag: 1.7.1.8
 License: GPLv2 or later
 
 Nice looking interactive responsive and mobile-friendly HTML5 Maps incl. US, World and more, with an option to customize view and behavior of the maps
@@ -78,11 +78,11 @@ Set the region's click option to "Show more info" in the Detailed Settings secti
 Any type WordPress can deal with.
 
 == Changelog ==
+= 1.7.1.8 =
+* Halloween Sale
+
 = 1.7.1.7 =
 * Minor bug fixes
-
-= 1.7.1.6 =
-* Halloween sale
 
 = 1.7.1.5 =
 * Cross Site Request Forgery (CSRF) vulnerability has been fixed.

@@ -61,7 +61,7 @@ fieldset.offer {
 </div>
 <div class="clear"></div>
 </fieldset>
-<fieldset class="offer"><strong>LIMITED OFFER!</strong> USE COUPON CODE <strong>DC20</strong> AND GET 20% OFF</fieldset>
+<fieldset class="offer"><strong>LIMITED OFFER!</strong> USE COUPON CODE <strong>HALLOWEEN</strong> AND GET 25% OFF</fieldset>
 <p>
 Create a responsive and mobile-friendly interactive map without any coding required. Below are possibilities of the plugin. Premium options are marked.
 </p>
@@ -181,7 +181,7 @@ Powered by the extremely capable Popup Builder plugin</ul></li>
 </div>
 <div class="clear"></div>
 </fieldset>
-<fieldset class="offer"><strong>LIMITED OFFER!</strong> USE COUPON CODE <strong>DC20</strong> AND GET 20% OFF</fieldset>
+<fieldset class="offer"><strong>LIMITED OFFER!</strong> USE COUPON CODE <strong>HALLOWEEN</strong> AND GET 25% OFF</fieldset>
 <script>
 jQuery(document).ready(function($) {
     $('.chosen-select').each(function () {
